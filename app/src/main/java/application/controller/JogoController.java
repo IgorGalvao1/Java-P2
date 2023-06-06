@@ -25,7 +25,10 @@ public class JogoController {
         return "WEB-INF/list.jsp";
     }
 
-    
+    @RequestMapping("/insert")
+    public String insert() {
+        return "WEB-INF/insert.jsp";
+    }
 
     @RequestMapping(value = "/insert", method = RequestMethod.POST)
     public String insert(@RequestParam("titulo") String titulo,@RequestParam("ano") int ano) {

@@ -15,7 +15,7 @@
                 <tr>
                     <th>Id</th>
                     <th>Título</th>
-                    <th>ano</th>
+                    <th>Ano</th>
                     
                 </tr>
                 <c:forEach var="item" items="${jogos}">

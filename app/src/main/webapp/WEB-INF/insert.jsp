@@ -15,7 +15,7 @@
                 <div class="form-group">
                     <label for="titulo">Título</label>
                     <input type="text" name="titulo" class="form-control" />
-                    <label for="ano">Ano</label>
+                    <label for="Ano">ano</label>
                     <input type="text" name="ano" class="form-control" />
                 </div>
                 <br />

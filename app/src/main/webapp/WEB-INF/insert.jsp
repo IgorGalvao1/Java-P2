@@ -16,7 +16,7 @@
                     <label for="titulo">Título</label>
                     <input type="text" name="titulo" class="form-control" />
                     <label for="ano">ano</label>
-                    <input type="text" name="Ano de Lançamento" class="form-control" />
+                    <input type="text" name="ano" class="form-control" />
                 </div>
                 <br />
                 <button type="submit" class="btn btn-success">Salvar</button>
